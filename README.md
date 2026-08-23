@@ -2,12 +2,9 @@
 
 # Matheus Henrique
 
-### Software Development Student • Web Development • Cybersecurity
+### Software Development Student | Web Development | Cybersecurity
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+solutions+through+code.;Learning+Cybersecurity+%26+Cloud.;Python+%E2%80%A2+JavaScript+%E2%80%A2+React"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+solutions+through+code.;Learning+Cybersecurity+%26+Cloud.;Python+%E2%80%A2+JavaScript+%E2%80%A2+React" alt="Typing SVG" />
 
 <br>
 
@@ -18,10 +15,6 @@
 <a href="https://www.linkedin.com/in/matheus-henrique-5bb4323a9">
   <img src="https://img.shields.io/badge/LinkedIn-Matheus_Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MatheusHenrique2344&style=flat-square&color=58A6FF" alt="Profile views"/>
 
 </div>
 
@@ -37,19 +30,19 @@ I'm a **Software Development student** focused on building a strong foundation i
 
 I enjoy understanding how systems work beyond the interface, from application development and databases to security and infrastructure.
 
-Currently, I'm expanding my knowledge through practical projects while studying technologies related to **Web Development, Cybersecurity, Cloud and Database Security**.
+Currently, I'm expanding my knowledge through practical projects while studying **Web Development, Cybersecurity, Cloud and Database Security**.
 
 <br>
 
 ```text
 Current Focus
 
-→ Web Development
-→ Cybersecurity
-→ Database Security
-→ Cloud & AWS
-→ Building real-world projects
-````
+> Web Development
+> Cybersecurity
+> Database Security
+> Cloud & AWS
+> Building real-world projects
+```
 
 <br>
 
@@ -104,41 +97,6 @@ Current Focus
 
 <br>
 
-## GitHub Analytics
-
-<br>
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique2344&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique2344&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusHenrique2344&theme=github-compact&hide_border=true&area=true"
-/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
 ## Currently Learning
 
 <br>
@@ -184,7 +142,7 @@ Cloud / AWS           ████░░░░░░░░░░░░░░░�
 
 <br>
 
-## 2026 Goals
+## Goals
 
 <br>
 
@@ -209,6 +167,62 @@ community:
 <br>
 
 ---
+
+<br>
+
+## GitHub
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/MatheusHenrique2344?tab=repositories">
+  <img src="https://img.shields.io/badge/View_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/MatheusHenrique2344">
+  <img src="https://img.shields.io/github/followers/MatheusHenrique2344?label=Followers&style=flat-square&logo=github">
+</a>
+
+</div>
+
+<br>
+
+My GitHub is where I document my progress, develop practical projects and explore new technologies.
+
+<br>
+
+---
+
+<br>
+
+## What I'm Building Towards
+
+<br>
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   DEVELOPMENT  +  SECURITY  +  CLOUD        │
+│                     │                       │
+│                     ▼                       │
+│              SECURE SOFTWARE                │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+<br>
+
+I want to develop a deeper understanding of both **how software is built** and **how it can be secured**.
+
+My long-term focus is to combine development knowledge with cybersecurity, infrastructure and cloud technologies.
+
+<br>
+
+---
+
 <br>
 
 ## Connect With Me
@@ -234,4 +248,3 @@ I'm always interested in learning, building new projects and connecting with oth
 <sub>Learning • Building • Improving</sub>
 
 </div>
-
