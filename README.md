@@ -40,7 +40,6 @@ Current Focus
 > Web Development
 > Cybersecurity
 > Database Security
-> Cloud & AWS
 > Building real-world projects
 ```
 
@@ -56,7 +55,7 @@ Current Focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,postgres,supabase,git,github,vscode,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,linux&perline=11" />
 
 </div>
 
@@ -66,7 +65,7 @@ Current Focus
 
 <tr>
 <td align="center"><b>Languages</b></td>
-<td>Python • JavaScript • HTML • CSS</td>
+<td>JavaScript • HTML • CSS</td>
 </tr>
 
 <tr>
@@ -86,7 +85,7 @@ Current Focus
 
 <tr>
 <td align="center"><b>Learning</b></td>
-<td>Cybersecurity • AWS • Web Security</td>
+<td>Cybersecurity • Web Security</td>
 </tr>
 
 </table>
@@ -104,10 +103,7 @@ Current Focus
 ```text
 01  Cybersecurity Fundamentals
 02  Web Application Security
-03  Database Security
 04  Linux
-05  OWASP Top 10
-06  AWS & Cloud
 ```
 
 <br>
@@ -126,12 +122,10 @@ My current goal is to connect **software development and cybersecurity**, learni
 
 ```text
 Web Development       ███████████████░░░░░
-Python                ██████████████░░░░░░
 JavaScript            █████████████░░░░░░░
 React                 ██████████░░░░░░░░░░
 Databases             █████████░░░░░░░░░░░
 Cybersecurity         ███████░░░░░░░░░░░░░
-Cloud / AWS           ████░░░░░░░░░░░░░░░░
 ```
 
 > The bars represent my current learning focus, not proficiency scores.
